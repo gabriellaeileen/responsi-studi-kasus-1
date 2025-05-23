@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
+Nama : [Gabriella Eileen Gultom]  
+NIU : [503523]  
 Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Secret String : [ac6dd5658f730526f4bd08952f2db44f74a83a9c31363ca670a63cfb933d96b320250523084159]
 
 ## Checklist Responsi
 
